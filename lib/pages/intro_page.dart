@@ -9,11 +9,11 @@ class IntroPage extends StatelessWidget {
       backgroundColor: Colors.grey[300],
       body: Center(
         child: Padding(
-          padding: const EdgeInsets.all(8.0),
+          padding: const EdgeInsets.symmetric(horizontal: 25),
           child: Column(
             children: [
               Padding(
-                padding: const EdgeInsets.all(8.0),
+                padding: const EdgeInsets.all(25.0),
                 child: Image.asset('lib/images/nike.png', height: 100),
               ),
               const SizedBox(height: 48),
@@ -27,7 +27,22 @@ class IntroPage extends StatelessWidget {
                   color: Colors.grey,
                 ),
                 textAlign: TextAlign.center,
-              )
+              ),
+              const SizedBox(height: 48),
+              Container(
+                  decoration: BoxDecoration(
+                    color: Colors.black,
+                    borderRadius: BorderRadius.circular(10),
+                  ),
+                  padding: const EdgeInsets.all(25),
+                  child: const Center(
+                    child: Text(
+                      'Shop Now',
+                      style: TextStyle(
+                        color: Colors.white,
+                      ),
+                    ),
+                  ))
             ],
           ),
         ),
