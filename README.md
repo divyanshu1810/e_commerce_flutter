@@ -1,16 +1,16 @@
 # e_commerce
 
-A new Flutter project.
+## The HomePage UI
+![localhost_65517_(Pixel 7)](https://github.com/divyanshu1810/e_commerce_flutter/assets/91051053/d1a354f9-22e2-4cf6-8218-a7d403c8f0b2)
 
-## Getting Started
+## Corousel for Items
+![localhost_65517_(Pixel 7) (1)](https://github.com/divyanshu1810/e_commerce_flutter/assets/91051053/c1051281-555a-4566-ba3d-7de9e2de0769)
 
-This project is a starting point for a Flutter application.
+## On adding item to cart
+![localhost_65517_(Pixel 7) (2)](https://github.com/divyanshu1810/e_commerce_flutter/assets/91051053/29495c6f-6a9c-4ff1-9bf9-aa2023af249f)
 
-A few resources to get you started if this is your first Flutter project:
+## Cart Page with items
+![localhost_65517_(Pixel 7) (3)](https://github.com/divyanshu1810/e_commerce_flutter/assets/91051053/0d0e8ac7-7c00-4a0e-a151-e54a2a566743)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Cart Page without items
+![localhost_65517_(Pixel 7) (4)](https://github.com/divyanshu1810/e_commerce_flutter/assets/91051053/4afdea5a-3f68-4c97-b5bd-04f958b1ab26)
